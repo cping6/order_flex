@@ -1,5 +1,5 @@
 {
-  "name": "cping/OrderFlex",
+  "name": "cping/order-flex",
   "description": "Flexible order record package for PHP apps",
   "type": "library",
   "license": "MIT",
